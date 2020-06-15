@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cgLX7PhX6ykXBJ5GVRarriCEk+VrQSK6H7AaMCujykGuQ5TsDUw1PHKA0VzMGps+IsMb12PIDY+MEc9pg5p+ag==",
+  "success": true,
+  "projectFilePath": "/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/LearnApp.csproj",
+  "expectedPackageFiles": [
+    "/home/head/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

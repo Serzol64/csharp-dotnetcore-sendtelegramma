@@ -1,0 +1,13 @@
+/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/bin/Debug/netcoreapp3.1/LearnApp
+/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/bin/Debug/netcoreapp3.1/LearnApp.deps.json
+/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/bin/Debug/netcoreapp3.1/LearnApp.runtimeconfig.json
+/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/bin/Debug/netcoreapp3.1/LearnApp.runtimeconfig.dev.json
+/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/bin/Debug/netcoreapp3.1/LearnApp.dll
+/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/bin/Debug/netcoreapp3.1/LearnApp.pdb
+/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/obj/Debug/netcoreapp3.1/LearnApp.csprojAssemblyReference.cache
+/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/obj/Debug/netcoreapp3.1/LearnApp.csproj.CoreCompileInputs.cache
+/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/obj/Debug/netcoreapp3.1/LearnApp.AssemblyInfoInputs.cache
+/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/obj/Debug/netcoreapp3.1/LearnApp.AssemblyInfo.cs
+/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/obj/Debug/netcoreapp3.1/LearnApp.dll
+/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/obj/Debug/netcoreapp3.1/LearnApp.pdb
+/home/head/Рабочий стол/Младший/DotnetConsole/LearnApp/obj/Debug/netcoreapp3.1/LearnApp.genruntimeconfig.cache
